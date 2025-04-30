@@ -1,1 +1,1 @@
-# Academic-Scheduler
+# Student_Mng
